@@ -1,0 +1,71 @@
+* {
+    margin: auto;
+}
+
+.profile{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 2px;
+}
+
+.contenedor{
+    width: 75vw;
+    height: 100vh;
+    display: flex;
+    background-color: white;
+    border: solid #000;
+}
+
+.contenedor1{
+    width: 35vw;
+    height: 100vh;
+    border: 2px solid #000;
+    display: flex;
+    flex-direction: column;
+    background-color: darkblue;
+    color: white;
+}
+
+.contenedor2{
+    width: 65vw;
+    height: 100vh;
+    border: 2px solid #000;
+    display: flex;
+    flex-direction: column;
+}
+
+.github{
+    color: greenyellow;
+}
+
+.linkedin{
+    color: greenyellow;
+}
+
+.educacion{
+    width: 90%;
+    height: 30%;
+    display: flex;
+    border-radius: 30%;
+    background-color: darkblue;
+    color: white;
+}
+
+.laboral{
+    width: 90%;
+    height: 20%;
+    display: flex;
+    border-radius: 30%;
+    background-color: darkblue;
+    color: white;
+}
+
+.tabla{
+    width: 90%;
+    height: 15%;
+    background-color: darkblue;
+    color: white;
+    display: flex;
+    border-radius: 30%;
+}
